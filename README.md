@@ -1,2 +1,3 @@
 # note-stoneage
-StoneAge - public blog
+Hello everyone, 这是我的blog
+
